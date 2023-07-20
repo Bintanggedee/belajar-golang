@@ -28,5 +28,6 @@ func main() {
 
 	}
 	fmt.Println("tambah data")
+	fmt.Println("update")
 
 }
