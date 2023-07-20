@@ -25,6 +25,8 @@ func main() {
 
 	for key, value := range person {
 		fmt.Println(key, "=", value)
+
 	}
+	fmt.Println("tambah data")
 
 }
