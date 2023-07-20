@@ -30,5 +30,6 @@ func main() {
 	fmt.Println("tambah data")
 	fmt.Println("update2")
 	fmt.Println("update")
+	fmt.Println("update4")
 
 }
